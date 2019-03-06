@@ -5,3 +5,5 @@ __pycache__
 *.json
 temp.py
 .DS_Store
+Pipfile
+Pipfile.lock
