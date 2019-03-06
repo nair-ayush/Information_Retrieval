@@ -1,0 +1,7 @@
+*.pptx
+*.ppt
+*.pdf
+__pycache__
+*.json
+temp.py
+.DS_Store
